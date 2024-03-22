@@ -1,0 +1,25 @@
+.custom-input{
+    padding: 1rem;
+    border: .5px solid rgb(179, 177, 177);
+    border-radius: 5px;
+    outline: none;
+  }
+
+  .custom-btn{
+    border-radius: 50px;
+    background-color: #1DA1F2;
+    color: white;
+  }
+
+
+  .date-of-birth{
+    display: flex;
+    gap: 1rem;
+    justify-content: space-between;
+  }
+  .date-of-birth select{
+    
+    padding: 1rem;
+    /* margin-inline: .5rem; */
+    width: 8rem;
+  }
